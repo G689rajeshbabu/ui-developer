@@ -1,0 +1,283 @@
+html,
+body,
+.container-fluid {
+    width: 100%;
+    height: 100%;
+    padding: 0%;
+    margin: 0%;
+}
+
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+
+/* frist */
+
+
+/* .logo-fulid {
+    padding-right: 80px;
+} */
+
+
+/* second */
+
+.text {
+    width: 100%;
+    height: 550px;
+    background-color: wheat;
+}
+
+.text-fulid1 {
+    font-weight: 300;
+}
+
+.text-fulid {
+    padding-top: 180px;
+    text-align: center;
+}
+
+.text1-fulid {
+    width: 120px;
+    height: 46px;
+}
+
+.text2-fulid {
+    width: 215px;
+    height: 48px;
+}
+
+
+/* third */
+
+.text-background {
+    width: 100%;
+    height: 600px;
+    background-image: url(../images/market-img2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.text-back1 {
+    height: 600px;
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+    padding-top: 250px;
+}
+
+.text-back2 {
+    color: white;
+}
+
+.text-back3 {
+    background-color: white;
+}
+
+
+/* fourth */
+
+.text-1 {
+    text-align: center;
+}
+
+.text4-2 {
+    text-align: center;
+    color: gray;
+}
+
+.text4-4 {
+    text-align: end;
+}
+
+.text4-7 {
+    color: gray;
+}
+
+.text4-4-1 {
+    margin-top: 20px;
+}
+
+.text4-4-2 {
+    margin-top: 20px;
+}
+
+.text4-8 {
+    width: 100px;
+    height: 100px;
+    background-color: royalblue;
+    border-radius: 50%;
+    margin-left: 70px;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+.text4-9 {
+    width: 100px;
+    height: 100px;
+    background-color: royalblue;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+
+.text4-6-2 {
+    color: gray;
+}
+
+
+/* fivfthone */
+
+.text5 {
+    width: 100%;
+    height: 700px;
+    background-image: url(../images/background-imag.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+}
+
+.text5-1 {
+    margin-top: 100px;
+    text-align: center;
+    color: wheat;
+    font-weight: 300;
+}
+
+.image-opecity {
+    opacity: 0.6;
+}
+
+.text5-1-1 {
+    margin-top: 30px;
+    color: wheat;
+    font-weight: 300;
+}
+
+.text5-2-1 {
+    margin-top: 30px;
+    color: white;
+}
+
+.text-ceo {
+    font-size: xx-large;
+}
+
+.text5-3-1 {
+    margin-top: 30px;
+    color: wheat;
+    font-weight: 300;
+}
+
+
+/* sixth */
+
+.text6-1,
+.text6-2,
+.text6-3,
+.text6-4 {
+    margin-top: 5px;
+}
+
+.text6-1-2,
+.text6-2-2,
+.text6-3-2,
+.text6-4-2 {
+    margin-top: 5px;
+}
+
+.text6-1-11 {
+    margin-top: 5px;
+}
+
+.text6-1-12 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.text6-1-21 {
+    background-color: violet;
+}
+
+
+/* seventhpage */
+
+.text7 {
+    width: 100%;
+    height: 700px;
+    background-color: whitesmoke;
+    padding-top: 85px;
+}
+
+.text7-1 {
+    text-align: center;
+}
+
+.box-1 {
+    width: 300px;
+    height: 400px;
+    margin-left: 150px;
+}
+
+.box-2 {
+    width: 300px;
+    height: 400px;
+    margin-left: 60px;
+}
+
+.box-3 {
+    width: 300px;
+    height: 400px;
+    margin-left: 60px;
+}
+
+.box-main {
+    display: flex;
+    flex-direction: row;
+}
+
+.box-number {
+    flex: 35%;
+    background-color: rgb(194, 145, 145);
+    text-align: center;
+}
+
+.box-contant {
+    flex: 65%;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.h1-1 {
+    padding-top: 30px;
+}
+
+.h3-1,
+.h3-2 {
+    padding-top: 40px;
+}
+
+
+/* eight */
+
+.last1 {
+    width: 100%;
+    height: 400px;
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+}
+
+.input2 {
+    margin-top: 30px;
+    width: 300px;
+    height: 40px;
+}
+
+.last2 {
+    margin-top: 45px;
+}
+
+.button6 {
+    background-color: rgb(175, 161, 175);
+}
